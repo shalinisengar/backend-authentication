@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "D:/GymWebsite-main/GymWebsite-main"
+		},
+		{
+			"path": "../full  stack"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../node.js"
+		},
+		{
+			"path": "../express"
+		},
+		{
+			"path": "../New folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New folder"
+	}
+}

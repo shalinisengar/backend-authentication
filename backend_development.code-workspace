@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../node.js"
+		},
+		{
+			"path": "../my app"
+		},
+		{
+			"path": "../New folder"
+		},
+		{
+			"path": "../express"
+		},
+		{
+			"path": "../full  stack"
+		}
+	],
+	"settings": {}
+}
